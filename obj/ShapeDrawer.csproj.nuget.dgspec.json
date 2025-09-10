@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\Documents\\school\\Shape-Drawer-main\\ShapeDrawer.csproj": {}
+    "C:\\msys64\\home\\Mustafa\\Shape-Drawer-main\\ShapeDrawer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\Documents\\school\\Shape-Drawer-main\\ShapeDrawer.csproj": {
+    "C:\\msys64\\home\\Mustafa\\Shape-Drawer-main\\ShapeDrawer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\Documents\\school\\Shape-Drawer-main\\ShapeDrawer.csproj",
+        "projectUniqueName": "C:\\msys64\\home\\Mustafa\\Shape-Drawer-main\\ShapeDrawer.csproj",
         "projectName": "ShapeDrawer",
-        "projectPath": "C:\\Users\\musta\\Documents\\school\\Shape-Drawer-main\\ShapeDrawer.csproj",
-        "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\Documents\\school\\Shape-Drawer-main\\obj\\",
+        "projectPath": "C:\\msys64\\home\\Mustafa\\Shape-Drawer-main\\ShapeDrawer.csproj",
+        "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
+        "outputPath": "C:\\msys64\\home\\Mustafa\\Shape-Drawer-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

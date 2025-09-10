@@ -63,7 +63,7 @@ namespace ShapeDrawer
                             break;
                         case ShapeKind.Line:
                             Point2D lineStart = SplashKit.MousePosition();
-                            int X = 6;
+                            int X = 16;
                             for (int i = 0; i < X; i++)
                             {
                                 newShape = new MyLine(SplashKitSDK.Color.Red, (float)lineStart.X, (float)lineStart.Y + i * 50, (float)lineStart.X + 300, (float)lineStart.Y + i * 50);

@@ -36,7 +36,7 @@ namespace ShapeDrawer
 
         public override void DrawOutline()
         {
-            int radius = 1; 
+            int radius = 2; 
             SplashKit.FillCircle(Color.Black, _x, _y, radius);
             SplashKit.FillCircle(Color.Black, _endX, _endY, radius);
         }
